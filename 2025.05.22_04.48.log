@@ -1,0 +1,8 @@
+2025-05-22 04:48:07 INFO LogExample: Bu oddiy log xabari
+2025-05-22 04:48:07 WARNING LogExample: Bu ogohlantiruvchi log xabari
+2025-05-22 04:48:07 SEVERE LogExample: Xatolik logi
+	at LogExample.main(LogExample.java:27)
+2025-05-22 04:48:15 INFO LogExample: Bu oddiy log xabari
+2025-05-22 04:48:15 WARNING LogExample: Bu ogohlantiruvchi log xabari
+2025-05-22 04:48:15 SEVERE LogExample: Xatolik logi
+	at LogExample.main(LogExample.java:27)
